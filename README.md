@@ -15,7 +15,7 @@ The following variables are available in the analytic data set
 |----------|-----------------------------------|-------------|
 | _stratum_  | Stratum assignment for EA.        | **1** = stratum 1 (low population density/high residual transmission); **2**= stratum 2 (high population density/low residual transmission)|
 | _gender_   | Gender of respondent              | **1**= male; **2**= female
-|_falc_pos_    | Binary variabled indicating if respondent had _Pfalicarum_ infection by RDT    | **1**= positive; **2**=negative|
+|_falc_pos_    | Binary variable indicating if respondent had _Pfalicarum_ infection by RDT    | **1**= positive; **0**=negative|
 |_year_  |Numeric Year  |2019; 2020|
 |_year.b_|Transformed binary year variable for DID analysis| **0**=2019; **1**= 2020|
 |_inbefore7_| Binary variable indicating if respondent went into their home for the evening before 7pm night before survey|**1**=yes; **0**=no|
