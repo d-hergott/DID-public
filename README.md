@@ -1,9 +1,9 @@
 # DID-public
 Data and code for difference in difference analysis on Bioko Island. 
-Published in XXXX
+
 
 # Overview
-This repository contains a data set used to run the DID travel analysis as published in Hergott, D. et al. [add link]
+This repository contains a data set used to run the DID travel analysis as published in Hergott, D. et al. 
 
 [bioko_did_analytic_dataset.csv](https://github.com/d-hergott/DID-public/blob/main/bioko_did_analytic_dataset.csv) has blinded, individual level data that was fed into the models. 
 [Bioko_DID_travel_code.R](https://github.com/d-hergott/DID-public/blob/main/Bioko_DID_travel_code.R) contains the code for running the main DID analysis, land use sensitivity analysis, and generating Table 2 and Table 3 in the paper. 
