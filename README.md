@@ -1,6 +1,7 @@
 # DID-public
-Data and code for difference in difference analysis on Bioko Island. 
+Data and code for difference in difference analysis on Bioko Island. Results published in [Nature Communications](https://www.nature.com/articles/s41467-024-52638-2)
 
+Hergott, D.E.B., Guerra, C.A., García, G.A. et al. Impact of six-month COVID-19 travel moratorium on Plasmodium falciparum prevalence on Bioko Island, Equatorial Guinea. Nat Commun 15, 8285 (2024). https://doi.org/10.1038/s41467-024-52638-2
 
 # Overview
 This repository contains a data set used to run the DID travel analysis as published in Hergott, D. et al. 
